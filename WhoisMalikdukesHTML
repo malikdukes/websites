@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<htm lang="en">
+	<head>
+		<body style="background-color: lightskyblue;">
+			<style>
+				body {
+					background-image: "https://render.fineartamerica.com/images/rendered/default/poster/10/8/break/images/artworkimages/medium/2/sky-and-clouds-background-rivernorthphotography.jpg "
+				}
+			</style>
+
+			<title>Malik Dukes</title>
+
+
+			<header style="background-color: yellow">
+				<strong><h1 style="color: darkblue">Hi, I'm Malik Dukes Junior Computer Science Major!</h1></strong>
+</header>
+<strong><h2 style="font-style: italic;"> Who is Malik Dukes?</h2></strong>
+<div style="background-color: darkyellow">
+<strong><p>Welcome, I am currently a junior Computer Science major at<a href="aamu.edu">Alabama A&M University</a>. Here is a quick video of my background </p></div></strong>
+<a href="https://www.youtube.com/watch?v=xG-q94PHAK4&t=3s">Background-Video</a>
+<video width="320" height="240"controls>
+<source src="https://www.youtube.com/watch?v=xG-q94PHAK4&t=3s" type="video/mp4">
+</video>
+<br>
+<iframe width="320" height="240"
+src="https://www.youtube.com/watch?v=xG-q94PHAK4&t=3s&loop=1">
+</iframe>
+<p> If video does not play click link to go to <a href="https://www.youtube.com/watch?v=xG-q94PHAK4&t=3s"> Youtube. </p>
+<br>
+<strong><header style="background-color: yellow">Malik Dukes at a Glance</strong></header>
+<body style="color: grey">
+  <br>
+<div style="background-color: yellow" >
+<p>I have a strong background in multiple languages including: C++, Java, C# and more.  Where I lack in real world training I make up for it with my drive to be the best Computer Scientist I can be.  Most languages and OS I have learned are self taught. My dream is to one day have my own software development company.   </p>
+<br>
+<a href="file:///C:/Users/Student/Desktop/resume%20(1).pdf">My Resume</a> 
+</div></body>
+</div> 
+<h3 style="color: darkred;">Malik Dukes</h3>
+<p style="font-style: italic"> Born September 27th in Columbus,Indiana second generation Alabama A&M University attendee. </p>
+<div>
+	<address style="background-color: yellow">
+<blockquote>Contact Me: malikdukes7@gmail.com, mdukes3@bulldogs.aamu.edu
+<br>
+<blockquote>Contact Me: 205-266-6759
+  <br>
+  <a href="file:///C:/Users/Student/Desktop/resume%20(1).pdf">My Resume</a> 
+	</blockquote></blockquote>
+</address>
+</div>
+<h4>More Info</h4>
+<div style="background-color: yellow " >
+<p> When I am not on the computer I like to paint to open the other side of my brain here is some of my work </p>
+<div>
+<img src="https://mail.google.com/mail/u/1?ui=2&ik=401fa0f450&attid=0.0&permmsgid=msg-f:1711633537886438095&th=17c0f1a2535dc2cf&view=att&disp=safe" alt="artwork1" style="width="520" height="340"">
+<br>
+<img src="https://mail.google.com/mail/u/1?ui=2&ik=401fa0f450&attid=0.1&permmsgid=msg-f:1711633537886438095&th=17c0f1a2535dc2cf&view=att&disp=safe" alt="artwork2" style="width="520" height="340"">
+<br>
+<img src="https://mail.google.com/mail/u/1?ui=2&ik=401fa0f450&attid=0.2&permmsgid=msg-f:1711633537886438095&th=17c0f1a2535dc2cf&view=att&disp=safe" alt="artwork3" style="width="520" height="340"">
+<br>
+<img src="https://mail.google.com/mail/u/1?ui=2&ik=401fa0f450&attid=0.3&permmsgid=msg-f:1711633537886438095&th=17c0f1a2535dc2cf&view=att&disp=safe" alt="artwork4" style="width="520" height="340"">
+<br>
+<img src="https://mail.google.com/mail/u/1?ui=2&ik=401fa0f450&attid=0.5&permmsgid=msg-f:1711633537886438095&th=17c0f1a2535dc2cf&view=att&disp=safe"alt="artwork5"style="width="920" height="440"">
+</div>
+</div>
+</body> 
+</html>
