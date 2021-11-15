@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <body style="background-color: darkgreen;">
+<style>
+   
+table, th, td {
+  border: 12px solid black;
+}
+
+</head>
+
+</style>
+<h1 font-style: bgcolor="lightgrey">Welcome to Saturday Night Football Number #1 Score HUB!</h1>
+
+<table>
+  <tr>
+    <th font-style: bgcolor="grey">Saturday, September 18th</th>
+    <td font-style: bgcolor="grey" ;>Football Scores</th>
+  </tr>
+  <tr>
+    <td style="color: royalblue;">Chattanooga Vs. W Kentucky </td>
+    <td font-style: italic;>23-28</td>
+
+  </tr>
+  <tr>
+    <td style="color: gold;">SE Missouri St VS  W Missouri</td>
+    <td font-style: italic;>28-59</td>
+  </tr>
+    <tr>
+    <td style="color: darkorange;">Tennessee Tech VS W Tennessee</td>
+    <td font-style: italic;>0-56</td>
+  </tr>
+  <tr>
+      <td style="color: whitesmoke;"> W New Mexico VS Texas A&M</td>
+   <td font-style: italic;>0-34</td>
+  </tr>
+  <tr>
+       <td style="color: crimson;"> W. Alabana VS Florida</td>
+  <td font-style: italic;>31-29</td>
+  </tr>
+  <tr>
+       <td style="color: gold;"> W. Florida State SO VS Arkansas</td>
+    <td font-style: italic;>10-45</td>
+  </tr>
+   <tr>
+      <td style="color: darkorange;">Mississippi ST VS Memphis </td>
+    <td font-style: italic;>29-31</td>
+  </tr>
+     <tr>
+       <td style="color: red;">South Carolina VS. W. Georgia</td>
+   <td font-style: italic;>13-40</td>
+  </tr>
+     <tr>
+       <td style="color: darkorange;"> W. Auburn VS. Penn State</td>
+   <td font-style: italic;>>20-28</td>
+  </tr>
+     <tr>
+   <td style="color: purple;">Michigan VS. W. LSU</td>
+  <td font-style: italic;>21-49</td>
+  </tr>
+     <tr>
+       <td style="color: darkred;">Tulane VS.  W. Ole Miss</td>
+    <td font-style: italic;>21-61</td>
+  </tr>
+</table>
+
+</body>
+</html>
