@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color: slategrey;">
+<header style="background-color: darkgrey">
+<strong><h1> Malik Dukes Family Tree! </h2></strong></header>
+
+<div >
+<dl>
+<strong><dt style="font-style: italic;">Emma Dukes (Mother) </dt></strong>
+	<dd>-Carol Reed 65 (Aunt)</dd>
+<small>	<dd>--2 Kids</dd></small>
+<small><dd style="font-style: italic">* Monique 31 & Tramell 33 </dd></small>
+	<dd>-Emily Nichols 56 (Aunt)</dd>
+<small>	<dd>--2 Kids</dd></small>
+<small><dd style="font-style: italic">*Alisha 29 & Alexus 22 </dd></small>
+	<dd>-Emma Dukes 65 (Mom)</dd>	
+<small>	<dd>--3 Kids</dd></small>
+<small><dd style="font-style: italic">*Lorenzo 29, Malik 25, Romie 22 </dd></small>
+	<dd>-Five Unmentioned Brothers(Uncles)</dd>	
+</dl>
+</div>
+<br>
+<div style="color: darkred">
+<dl>
+ <strong>   <dt style="font-style: italic;">Herbert Dukes (Father)</dt> </strong>
+	<dd>-Herbert 59 (Dad)</dd>
+<small>	<dd>--5 kids</dd></small>
+	<dd>-Stacy Dukes(Aunt)(Deceased)</dd>
+<small>	<dd>--2 kids</dd></small>
+<small><dd style="font-style: italic">*Shay 36 & Junior (Deceased) </dd></small>
+	<dd>-Gerald Dukes (Deceased) (Uncle)</dd>
+  <small>	<dd>--2 kids</dd></small>
+<small><dd style="font-style: italic">*Janique 28 & Gerenzo 26 </dd></small>
+	<dd>-Alonzo Dukes 55 (Uncle)</dd>
+<small><dd style="font-style: italic">-Unknown</dd></small>
+				
+</dl>
+</dive>
+<br>
+<div style="color: darkgreen">
+<dl>
+<strong>    <dt style="font-style: italic;">Herbert Dukes & Emma Dukes(Parents)</dt></strong>
+	<dd>-Lorenzo Dukes(Brother)</dd>
+<small><dd style="font-style: italic">-1 kid(Zona Dukes) </dd></small>
+	<dd>-Malik Dukes</dd>
+	<dd>-Romie Dukes(Brother)</dd>		
+</dl>
+</dive>
+</body>
+</html>
